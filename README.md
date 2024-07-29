@@ -1,9 +1,11 @@
 # UBTW2
 Unblock The World 2
 
-#### Made by an 11 year old!
+> [!IMPORTANT]
+> Made by an 11 year old!
 
-### Note: `Velocity` it the recommended option!
+> [!NOTE]
+> `Velocity` it the recommended option!
 
 ## Through codespaces - Recommended for schools
 Fork this repo. Once your on your new repo page, click on the code button. Then select the codespces tab. Press `Create codespace on master`. Finally run the following commands in the terminal on the bottom.
@@ -19,3 +21,6 @@ For only `Velocity` run `./install.sh Velocity`
 To launch `nodeunblocker.com` run `./launch.sh nodeunblocker.com`
 
 To launch `Velocity` run `./launch.sh` or `./launch.sh Velocity`
+
+## Issues
+If you have a issue you can use the `issues` tab on GitHub.
