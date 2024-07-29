@@ -24,4 +24,11 @@ To launch `nodeunblocker.com` run `./launch.sh nodeunblocker.com`
 To launch `Velocity` run `./launch.sh` or `./launch.sh Velocity`
 
 ## Issues
-If you have a issue you can use the `issues` tab on GitHub.
+If you have a issue you can use the `Issues` tab on GitHub.
+
+## Making Changes
+
+> [!IMPORTANT]
+> You need to know how to write bash scripts, use node and npm, and use GitHub to make changes to the project
+
+If you would like to make changes to this project first create a fork of this project on GitHub and make the changes you would like to make. Then make sure you are not braking the rules specified in the license. Finally you can create a Pull Request in the `Pull Requests` tab to make those changes available to everyone.
