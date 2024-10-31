@@ -1,6 +1,13 @@
 # UBTW2
 Unblock The World 2
 
+<div align="center">
+
+![GitHub forks](https://img.shields.io/github/forks/CrossScarDev/UBTW2?style=for-the-badge&logo=git&logoColor=%23fff&label=UBTW2%20Forks&labelColor=%23181825&color=%2389b4fa)
+![GitHub forks](https://img.shields.io/github/forks/CrossScarDev/UBTW?style=for-the-badge&logo=git&logoColor=%23fff&label=UBTW1%20Forks&labelColor=%23181825&color=%2389b4fa)
+
+</div>
+
 > [!IMPORTANT]
 > Made by an 11 year old!
 
