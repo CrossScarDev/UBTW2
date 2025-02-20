@@ -1,6 +1,9 @@
 # UBTW2
 Unblock The World 2
 
+> [!IMPORTANT]
+> It is illegal to charge money to people to access this software, you are required to either provide the software for free or only use it for yourself. For more information see the license tab.
+
 <div align="center">
 
 ![GitHub forks](https://img.shields.io/github/forks/CrossScarDev/UBTW2?style=for-the-badge&logo=git&logoColor=%23fff&label=UBTW2%20Forks&labelColor=%23181825&color=%2389b4fa)
